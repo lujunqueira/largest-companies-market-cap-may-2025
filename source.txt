@@ -8,7 +8,7 @@ Tableau public redesign:
 https://public.tableau.com/app/profile/luciana.junqueira/viz/Book1_17474419142580/LargestCompaniesbyMarketcap
 
 
-insights:
+Insights:
 It shows that over 1/3 of the most valuable companies are tech-based.
 Finance and healthcare still anchor the global economy.
 Consumer brands remain culturally and economically powerful — with luxury increasingly punching above its weight.
