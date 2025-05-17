@@ -1,0 +1,17 @@
+Data source:
+https://companiesmarketcap.com/
+
+Original graph:
+https://www.voronoiapp.com/markets/The-Worlds-50-Most-Valuable-Companies-May-2025-5012
+
+Tableau public redesign:
+https://public.tableau.com/app/profile/luciana.junqueira/viz/Book1_17474419142580/LargestCompaniesbyMarketcap
+
+
+insights:
+It shows that over 1/3 of the most valuable companies are tech-based.
+Finance and healthcare still anchor the global economy.
+Consumer brands remain culturally and economically powerful — with luxury increasingly punching above its weight.
+Energy is geographically concentrated (Middle East, US).
+
+
